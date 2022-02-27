@@ -1,4 +1,4 @@
-# vue-navbar-responsive
+# vue-navbar-responsive 🏀
 
 ## Project setup
 ```
